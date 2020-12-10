@@ -1,7 +1,7 @@
 # ISG-Attack
 
 We use the codes of XMSS and K2SN-MSS from
-https://github.com/XMSS/xmss-reference/commit/fb7e3f8edce8d412a707f522d597ab3546863202
+https://github.com/XMSS/xmss-reference/commit/fb7e3f8edce8d412a707f522d597ab3546863202 and
 https://github.com/skarati/K2SN-MSS
 respectively to perform the attack.
 
