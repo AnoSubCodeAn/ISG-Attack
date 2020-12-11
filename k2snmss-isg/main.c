@@ -1,8 +1,3 @@
-/*
- * Implementation of ISG Attack on K2SN-MSS
- * Author: Roland Booth
-*/
-
 #include "K2SN-MSS/measurement.h"
 #include <time.h>
 #include "K2SN-MSS/merkle-tree.h"
