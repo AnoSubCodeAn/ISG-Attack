@@ -1,8 +1,3 @@
-/*
- * Implementation of ISG Attack on K2SN-MSS
- * Author: Roland Booth
-*/
-
 #include <gdsl.h>
 
 // Maximum number of checkpoints to record intermediate runtime of attack
